@@ -18,5 +18,5 @@ export class HealthController {
       startTime,
       version,
     });
-  }
 }
+  }
